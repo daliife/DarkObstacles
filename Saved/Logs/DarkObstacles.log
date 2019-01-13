@@ -5946,3 +5946,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.13-23.04.55:260][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personal/ThirdPersonCharacterCustom]
 [2019.01.13-23.04.55:329][976]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/ThirdPersonCharacterCustom_Auto6C440788E4C576C67B1A2AA821E421CC3.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/Autosaves/Game/Personal/ThirdPersonCharacterCustom_Auto6.uasset'
 [2019.01.13-23.04.55:333][976]LogFileHelpers: Auto-saving content packages took 0.103
+[2019.01.13-23.14.51:855][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
