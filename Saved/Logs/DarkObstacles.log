@@ -5751,3 +5751,198 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.13-22.47.30:888][261]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
 [2019.01.13-22.47.31:650][294]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/ThirdPersonCharacterCustomDBCAFA0645338FB50A8DA5AB4CE5D210.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/ThirdPersonCharacterCustom.uasset'
 [2019.01.13-22.47.34:517][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.50.31:746][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.50.32:722][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personal/TestMap" FILE="../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.13-22.50.32:965][381]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/TestMap0C4B419044AD83A9B4570CA5AF5ED428.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap.umap'
+[2019.01.13-22.50.33:004][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personal/TestMap_BuiltData" FILE="../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap_BuiltData.uasset" SILENT=true
+[2019.01.13-22.50.33:117][381]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/TestMap_BuiltData803AD5724628F9FC501184923087DB55.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap_BuiltData.uasset'
+[2019.01.13-22.50.34:813][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.13-22.52.43:575][885]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.52.59:752][296]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.53.00:274][301]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/ThirdPersonCharacterCustom21BF7DBD42CE6E09B587B9AC349409AD.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/ThirdPersonCharacterCustom.uasset'
+[2019.01.13-22.53.01:043][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.53.01:098][362]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.53.01:142][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.01:142][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.53.01:142][362]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:53:01 AM)
+[2019.01.13-22.53.01:143][362]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.53.01:153][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010229s)
+[2019.01.13-22.53.01:154][362]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.53.01:154][362]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2019.01.13-22.53.01:154][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.011284s)
+[2019.01.13-22.53.01:196][362]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.53.01:209][362]LogInit: FAudioDevice initialized.
+[2019.01.13-22.53.01:244][362]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.53.01:247][362]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.53.01
+[2019.01.13-22.53.01:247][362]LogWorld: Bringing up level for play took: 0.002135
+[2019.01.13-22.53.01:260][362]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap -0.015
+[2019.01.13-22.53.01:260][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.02:976][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.53.03:039][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.03:040][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.53.03:105][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.53.03:105][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.03:143][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.53.03:233][486]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2019.01.13-22.53.05:974][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personal/TestMap" FILE="../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.13-22.53.06:228][643]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/TestMap5D1A61D0460D55614B647CB236155CEB.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap.umap'
+[2019.01.13-22.53.06:264][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personal/TestMap_BuiltData" FILE="../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap_BuiltData.uasset" SILENT=true
+[2019.01.13-22.53.06:397][643]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/TestMap_BuiltData28A796E148ADE0950D9CC88E72A3E137.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/TestMap_BuiltData.uasset'
+[2019.01.13-22.53.06:626][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.53.06:700][663]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.53.06:717][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.06:717][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.53.06:717][663]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:53:06 AM)
+[2019.01.13-22.53.06:717][663]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.53.06:726][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008277s)
+[2019.01.13-22.53.06:726][663]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.53.06:726][663]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2019.01.13-22.53.06:726][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.009089s)
+[2019.01.13-22.53.06:769][663]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.53.06:779][663]LogInit: FAudioDevice initialized.
+[2019.01.13-22.53.06:814][663]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.53.06:816][663]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.53.06
+[2019.01.13-22.53.06:817][663]LogWorld: Bringing up level for play took: 0.001370
+[2019.01.13-22.53.06:830][663]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap -0.445
+[2019.01.13-22.53.06:830][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.09:154][835]LogScript: Warning: UNiagaraFunctionLibrary::SpawnSystemAttached: NULL AttachComponent specified!
+[2019.01.13-22.53.15:904][363]LogScript: Warning: UNiagaraFunctionLibrary::SpawnSystemAttached: NULL AttachComponent specified!
+[2019.01.13-22.53.18:356][553]LogScript: Warning: UNiagaraFunctionLibrary::SpawnSystemAttached: NULL AttachComponent specified!
+[2019.01.13-22.53.20:250][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.20:251][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.53.20:315][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.53.20:315][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.20:345][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.53.20:451][703]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.01.13-22.53.20:992][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.53.28:671][285]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.53.30:451][387]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.53.30:498][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.30:498][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.53.30:498][387]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:53:30 AM)
+[2019.01.13-22.53.30:499][387]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.53.30:509][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010208s)
+[2019.01.13-22.53.30:510][387]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.53.30:510][387]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.01.13-22.53.30:510][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.011194s)
+[2019.01.13-22.53.30:558][387]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.53.30:568][387]LogInit: FAudioDevice initialized.
+[2019.01.13-22.53.30:605][387]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.53.30:607][387]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.53.30
+[2019.01.13-22.53.30:607][387]LogWorld: Bringing up level for play took: 0.001698
+[2019.01.13-22.53.30:620][387]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap -0.656
+[2019.01.13-22.53.30:620][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.41:080][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.41:081][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.53.41:144][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.53.41:145][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.41:178][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.53.41:286][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2019.01.13-22.53.42:812][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.53.50:919][703]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.53.53:172][835]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.53.53:228][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.53.53:228][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.53.53:228][835]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:53:53 AM)
+[2019.01.13-22.53.53:228][835]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.53.53:239][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010538s)
+[2019.01.13-22.53.53:240][835]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.53.53:240][835]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2019.01.13-22.53.53:240][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.011587s)
+[2019.01.13-22.53.53:285][835]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.53.53:294][835]LogInit: FAudioDevice initialized.
+[2019.01.13-22.53.53:324][835]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.53.53:326][835]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.53.53
+[2019.01.13-22.53.53:326][835]LogWorld: Bringing up level for play took: 0.001233
+[2019.01.13-22.53.53:339][835]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap 0.064
+[2019.01.13-22.53.53:339][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.13:912][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.13:912][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.54.13:971][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.54.13:972][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.14:004][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.54.14:122][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.01.13-22.54.15:531][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.54.19:971][499]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.54.21:355][571]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.54.21:402][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.21:402][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.54.21:402][571]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:54:21 AM)
+[2019.01.13-22.54.21:402][571]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.54.21:413][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010650s)
+[2019.01.13-22.54.21:414][571]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.54.21:414][571]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2019.01.13-22.54.21:414][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.011458s)
+[2019.01.13-22.54.21:459][571]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.54.21:471][571]LogInit: FAudioDevice initialized.
+[2019.01.13-22.54.21:507][571]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.54.21:510][571]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.54.21
+[2019.01.13-22.54.21:510][571]LogWorld: Bringing up level for play took: 0.001774
+[2019.01.13-22.54.21:523][571]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap 0.247
+[2019.01.13-22.54.21:523][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.46:563][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.46:563][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.54.46:626][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.54.46:627][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.54.46:660][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.54.46:770][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.01.13-22.54.53:342][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.55.18:843][538]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.55.23:628][880]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.55.24:329][899]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/ThirdPersonCharacterCustom33135BC9450AF18FB98F189C56E9EDF7.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Content/Personal/ThirdPersonCharacterCustom.uasset'
+[2019.01.13-22.55.25:785][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.55.25:867][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.55.25:918][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.55.25:918][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.55.25:918][ 16]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:55:25 AM)
+[2019.01.13-22.55.25:918][ 16]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.55.25:927][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008944s)
+[2019.01.13-22.55.25:928][ 16]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.55.25:928][ 16]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2019.01.13-22.55.25:928][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.009931s)
+[2019.01.13-22.55.25:971][ 16]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.55.25:981][ 16]LogInit: FAudioDevice initialized.
+[2019.01.13-22.55.26:013][ 16]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.55.26:015][ 16]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.55.26
+[2019.01.13-22.55.26:016][ 16]LogWorld: Bringing up level for play took: 0.001254
+[2019.01.13-22.55.26:028][ 16]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap 0.753
+[2019.01.13-22.55.26:028][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.55.36:374][716]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.55.36:374][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.55.36:443][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.55.36:444][716]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.55.36:477][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.55.36:579][717]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.01.13-22.55.38:303][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-22.55.56:610][231]BlueprintLog: New page: Compile ThirdPersonCharacterCustom
+[2019.01.13-22.55.59:590][431]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.13-22.55.59:644][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.55.59:644][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.13-22.55.59:644][431]PIE: New page: PIE session: TestMap (Jan 14, 2019, 12:55:59 AM)
+[2019.01.13-22.55.59:644][431]LogPlayLevel: Creating play world package: /Game/Personal/UEDPIE_0_TestMap
+[2019.01.13-22.55.59:653][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009092s)
+[2019.01.13-22.55.59:654][431]LogAIModule: Creating AISystem for world TestMap
+[2019.01.13-22.55.59:654][431]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.01.13-22.55.59:655][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Personal/TestMap.TestMap to /Game/Personal/UEDPIE_0_TestMap.TestMap (0.010228s)
+[2019.01.13-22.55.59:717][431]LogInit: XAudio2 using 'Auriculares (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.01.13-22.55.59:727][431]LogInit: FAudioDevice initialized.
+[2019.01.13-22.55.59:761][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.13-22.55.59:763][431]LogWorld: Bringing World /Game/Personal/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.01.13-23.55.59
+[2019.01.13-22.55.59:763][431]LogWorld: Bringing up level for play took: 0.001515
+[2019.01.13-22.55.59:776][431]PIE: Play in editor start time for /Game/Personal/UEDPIE_0_TestMap 0.5
+[2019.01.13-22.55.59:776][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.56.27:745][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.56.27:745][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.56.27:816][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.13-22.56.27:817][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Personal/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Personal/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Personal/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.01.13-22.56.27:849][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.13-22.56.27:946][195]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2019.01.13-22.56.31:331][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.13-23.04.55:220][976]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/TestMap_Auto68707E3D14061664546CC6088B4CC8EA4.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/Autosaves/Game/Personal/TestMap_Auto6.umap'
+[2019.01.13-23.04.55:228][976]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Personal/TestMap' took 0.248
+[2019.01.13-23.04.55:228][976]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.248
+[2019.01.13-23.04.55:230][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Personal/ThirdPersonCharacterCustom] ([1] browsable assets)...
+[2019.01.13-23.04.55:260][976]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Personal/ThirdPersonCharacterCustom.ThirdPersonCharacterCustom]
+[2019.01.13-23.04.55:260][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Personal/ThirdPersonCharacterCustom]
+[2019.01.13-23.04.55:329][976]LogSavePackage: Moving '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/ThirdPersonCharacterCustom_Auto6C440788E4C576C67B1A2AA821E421CC3.tmp' to '../../../../../../Users/GAME/Documents/Unreal Projects/DarkObstacles/Saved/Autosaves/Game/Personal/ThirdPersonCharacterCustom_Auto6.uasset'
+[2019.01.13-23.04.55:333][976]LogFileHelpers: Auto-saving content packages took 0.103
